@@ -1,10 +1,6 @@
 # Machine-learning-using-Pyhton-Libraries
 This repo has diffrent un-scalable projects using diffrent online learning Platforms all self implemented.
-
-Here listing all the functuions/Libraries  used to implement this Project :
-a) Python Pandas 
-
-
-b) Python sklearn 
-
-Ridge Regression : 
+Libraries used in this are :
+1) Pandas
+2) Matplotlib
+3) Sklearn 
