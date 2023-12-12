@@ -7,5 +7,3 @@ a) Python Pandas
 
 b) Python sklearn 
 
-
-c) 
