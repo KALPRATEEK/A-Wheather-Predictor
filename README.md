@@ -7,3 +7,4 @@ a) Python Pandas
 
 b) Python sklearn 
 
+Ridge Regression : 
